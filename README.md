@@ -72,7 +72,7 @@ Avg Experience = AVERAGE(HR_Analytics[YearsAtCompany])
 An interactive single-page dashboard covering attrition by department, salary slab, job role, satisfaction, gender, age group, and experience trend, with an age group slicer and department slicer for dynamic filtering.
 
 > 📸 *Add your dashboard screenshot here after uploading to GitHub:*
-> `<img width="900" alt="HR Analytics Dashboard" src="https://github.com/NjiruDennis/HR-Analytics-Dashboard-Power-Bi-Project/blob/0e823727ed24ab94223c83e06fdd461221f22139/Dashboard%20Screenshot.png" />`
+> `<img width="900" alt="HR Analytics Dashboard" src="https://raw.githubusercontent.com/NjiruDennis/HR-Analytics-Dashboard-Power-Bi-Project/main/Dashboard%20Screenshot.png" />`
 
 ## Results/Findings
 
